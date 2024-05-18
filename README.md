@@ -4,6 +4,7 @@
 4. [Architecture Diagram](#architecture-diagram)
 5. [Description of Cryptocurrency Exchange Website](#description-of-cryptocurrency-exchange-website)
 6. [Conclusion](#conclusion)
+7. [Running the application ](#application)
 
 ## Introduction
 
@@ -20,4 +21,44 @@ The following are screenshots of the frontend interface showcasing the trading p
 
 ### Signup Page
 ![Signup Page](doc_images/signup.PNG)
+
+### Newspage in the users dashbaord Page
+![newspage](doc_images/newspage.PNG)
+
+
+## Data Visualization Screenshots
+The followings are screenshots of data visualizations demonstrating the effectiveness of the prediction model with synthetic data.
+### Synthetic Analysis in the users dashbaord Page
+![synthetic](doc_images/synthetic.PNG)
+
+## Architecture Diagram
+Below is the provide a detailed architecture diagram illustrating the relationships between Lambda functions, API Gateway, database, frontend, and other components. 
+### Architecture Diagram image
+![architect diagram](doc_images/architect_diagram.PNG)
+
+## Description of Cryptocurrency Exchange Website
+The cryptocurrency exchange website is designed to provide users with a seamless trading experience while incorporating machine learning for sentiment analysis. Key components and functionalities include:
+
+- **Frontend Interface**: Developed using modern web technologies, the frontend interface offers users intuitive access to trading features, market data, and user account management.
+
+- **Machine Learning for Sentiment Analysis**: Utilizes natural language processing (NLP) techniques to analyze sentiments from various sources such as social media, news articles, and forums. The sentiment analysis model provides insights into market trends and user sentiments, aiding traders in decision-making.
+
+- **AWS Lambda Functions**: Implements serverless computing for trade execution, data processing, and scheduled tasks. Lambda functions ensure scalability, cost-efficiency, and low-latency response times.
+
+- **Database**: Utilizes a scalable and reliable database (e.g., Amazon DynamoDB) to store user data, transaction history, sentiment analysis results.
+
+## Conclusion
+The cryptocurrency exchange website integrates cutting-edge technologies to deliver a robust and feature-rich trading platform. By leveraging machine learning for sentiment analysis, serverless architecture with AWS Lambda functions, and a scalable database, the platform empowers users with valuable insights and seamless trading experiences.
+
+## Running the application
+cd "Frontend of website"
+launch the index.html on the browser
+
+#THANKS YOU!!!
+
+
+
+
+
+
 
