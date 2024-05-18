@@ -1,10 +1,13 @@
+# Table of Contents
+
 1. [Introduction](#introduction)
 2. [Frontend Screenshots](#frontend-screenshots)
 3. [Data Visualization Screenshots](#data-visualization-screenshots)
 4. [Architecture Diagram](#architecture-diagram)
 5. [Description of Cryptocurrency Exchange Website](#description-of-cryptocurrency-exchange-website)
-6. [Conclusion](#conclusion)
-7. [Running the application ](#application)
+6. [Running the Application](#running-the-application)
+7. [Conclusion](#conclusion)
+
 
 ## Introduction
 
@@ -47,12 +50,16 @@ The cryptocurrency exchange website is designed to provide users with a seamless
 
 - **Database**: Utilizes a scalable and reliable database (e.g., Amazon DynamoDB) to store user data, transaction history, sentiment analysis results.
 
+
+## Running the Application
+cd "Frontend of website"
+launch the index.html on the browser
+
+
 ## Conclusion
 The cryptocurrency exchange website integrates cutting-edge technologies to deliver a robust and feature-rich trading platform. By leveraging machine learning for sentiment analysis, serverless architecture with AWS Lambda functions, and a scalable database, the platform empowers users with valuable insights and seamless trading experiences.
 
-## Running the application
-cd "Frontend of website"
-launch the index.html on the browser
+
 
 #THANKS YOU!!!
 
