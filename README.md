@@ -12,9 +12,12 @@ This project aims to develop a cryptocurrency exchange website that incorporates
 ## Frontend Screenshots
 
 The following are screenshots of the frontend interface showcasing the trading platform, user dashboard, and other relevant features.
+### Home Page
 ![Frontend Interface](doc_images/architect_diagram.PNG)
 
+### Login Page
 ![Login Page](doc_images/login.PNG)
 
+### Signup Page
 ![Signup Page](doc_images/signup.PNG)
 
