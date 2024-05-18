@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1600.0",
+    "websocket": "^1.0.34"
+  }
+}
