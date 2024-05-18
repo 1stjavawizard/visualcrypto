@@ -52,8 +52,19 @@ The cryptocurrency exchange website is designed to provide users with a seamless
 
 
 ## Running the Application
-cd "Frontend of website"
-launch the index.html on the browser
+1. Navigate to the directory containing the frontend of the website by using the `cd` command:
+
+    ```bash
+    cd "Frontend of website"
+    ```
+
+2. Launch the `index.html` file in a web browser:
+
+    - Open your preferred web browser.
+    - Navigate to the file menu or address bar.
+    - Enter the path to the `index.html` file or drag and drop the file into the browser window.
+    - Press Enter to load the webpage.
+
 
 
 ## Conclusion
